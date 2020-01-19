@@ -31,12 +31,10 @@ section{
 header a{
 	font-family: var(--snigle-font);
 	font-size: 0.9em;
-	color: whitesmoke;
+	color: black;
 }
 
 header{
-	background: #dd2476;
-	background-image: url("https://lakshmisharath.com/wp-content/uploads/2016/12/khajuraho-temple-sculptures-1024x678.jpg");
 	background-size: cover;
 }
 
@@ -121,7 +119,7 @@ header .container .col-md-7 button{
 
 .section-1{
 	padding: 20vmin 0;
-	background-image: url("./bg2.JPG");
+	background-image: url(bg2.JPG);
 	background-size: cover;
 }
 
@@ -164,11 +162,10 @@ header .container .col-md-7 button{
 .cover{
 	width: 100%;
 	height: 70vmin;
-	background-image: url("./r1.JPG");
+	background: url(r1.JPG);
 	background-position: 0em -19em;
 	background-size: 100%;
 	position: relative;
-	z-index:0;
 }
 
 .cover .content{
@@ -246,7 +243,7 @@ header .container .col-md-7 button{
 .section-3{
 	height: 70vmin;
 	margin-top: 5vmin;
-	background: url("./j1.PNG");
+	background: url(j1.png);
 	background-size: cover;
 }
 
